@@ -3,7 +3,7 @@
 /nbproject/
 build.xml
 manifest.mf
-/hmod/domain/
-/hmod/hyperheuristic/
-/flexbuilders/
-/hmod/test/scripts/
+/src/hmod/domain/
+/src/hmod/hyperheuristic/
+/src/flexbuilders/
+/src/hmod/test/scripts/
