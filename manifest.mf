@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-X-COMMENT: Main-Class will be added automatically by build
-
-Name: hmod/test/
-Script-Bundle: true
-Script-Bundle-Title: hMod test scripts bundle
-Script-Bundle-Version: 1.0
-Script-Bundle-Description: A set of scripts used to test the hMod framework's assembling capabilities.
